@@ -5,9 +5,9 @@ Supermarkets will regularly change their store layouts, product selections, pric
 
 To be successful in this project I will be engaging the following skills. 
 
-Data wrangling
-Data visualization
-Programming skills
-Statistics
-Critical thinking
-Commercial thinking
+Data wrangling,
+Data visualization,
+Programming skills,
+Statistics,
+Critical thinking,
+Commercial thinking,
